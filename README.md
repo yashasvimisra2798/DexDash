@@ -1,6 +1,6 @@
 # Dashboard For The DexConnect Platform of Dexterity Global
 
-Working prototype submission for internship at Dexterity Global Group. Dashboard to for real time analysis of data of connected individuals and institutes across the country.
+Working prototype submission for internship at Dexterity Global Group. Dashboard for real time analysis of data of connected individuals and institutes across the country.
 
 ### Requirements ###
 * Python 
